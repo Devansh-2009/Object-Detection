@@ -4,6 +4,10 @@
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: black;
 }
+body{
+    background-size: cover;
+    background-position: center;
+}
 .buttons{
     font-size: 30px;
     background-color: black;
@@ -11,6 +15,53 @@
     border-radius: 50px;
     width: 200px;
     border-color: aliceblue;
-    border-width: 5px;
+    border-width: 10px;
 }
-
+#bedroom_img{
+    width: 500px;
+    height: 400px;
+}
+#bedroom_home{
+    background-color: aliceblue;
+    font-size: 30px;
+}
+#crowd_img{
+    width: 500px;
+    height: 400px;
+}
+#crowd_home{
+    background-color: aliceblue;
+    font-size: 30px;
+}
+#fruits_img{
+    width: 500px;
+    height: 400px;
+}
+#fruits_home{
+    background-color: aliceblue;
+    font-size: 30px;
+}
+#sports_img{
+    width: 500px;
+    height: 400px;
+}
+#sports_home{
+    background-color: aliceblue;
+    font-size: 30px;
+}
+#nature_img{
+    width: 500px;
+    height: 400px;
+}
+#nature_home{
+    background-color: aliceblue;
+    font-size: 30px;
+}
+#status
+{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
